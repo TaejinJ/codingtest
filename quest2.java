@@ -9,7 +9,8 @@ public class quest2 {
 		int year= sc.nextInt();
 		System.out.println(year-543);
 	
-
+//백준 18108문제
+	
 	}
 
 }
